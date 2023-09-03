@@ -1,4 +1,4 @@
-# Movie Details Website
+# FlixDB
 
 ## Table of Contents
 
